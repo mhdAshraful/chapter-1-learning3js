@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae3d71ca-85f2-4ed4-931b-13dbbfa31509" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1bkcLygeWMeEVkWsBv9DP6DcuGo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae3d71ca-85f2-4ed4-931b-13dbbfa31509" name="Default Changelist" comment="" />
+      <created>1589179480312</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589179480312</updated>
+      <workItem from="1589179483154" duration="132000" />
+      <workItem from="1589179623358" duration="11257000" />
+      <workItem from="1589208766155" duration="3759000" />
+      <workItem from="1589240271802" duration="3752000" />
+      <workItem from="1589245132331" duration="504000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2135" y="366" key="#Notifications" timestamp="1589245110726">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="2135" y="366" key="#Notifications/0.0.3440.1410@0.0.3440.1410" timestamp="1589245110726" />
+    <state x="1789" y="491" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper" timestamp="1589245080837">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="1789" y="491" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper/0.0.3440.1410@0.0.3440.1410" timestamp="1589245080837" />
+    <state x="2273" y="455" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589240800816">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="2273" y="455" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.3440.1410@0.0.3440.1410" timestamp="1589240800816" />
+    <state x="1560" y="354" key="SettingsEditor" timestamp="1589245094218">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="1560" y="354" key="SettingsEditor/0.0.3440.1410@0.0.3440.1410" timestamp="1589245094218" />
+    <state x="1950" y="323" width="672" height="678" key="search.everywhere.popup" timestamp="1589245067781">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="1950" y="323" width="672" height="678" key="search.everywhere.popup/0.0.3440.1410@0.0.3440.1410" timestamp="1589245067781" />
+  </component>
+</project>
