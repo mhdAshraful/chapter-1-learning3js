@@ -1,12 +1,47 @@
-*{
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:800italic);
+
+* {
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
 }
-body{
+
+body {
+    font-family: "Courier New", Courier, monospace;
     margin: 0px;
+
 }
-h1{
+
+#webgl {
+    position: absolute;
+    z-index: -5;
+}
+
+section {
+    background-image: linear-gradient(to right, #ffecd2 0%, #fcb69f 100%);
+    color: brown;
+}
+
+.left-section {
+    position: absolute;
+    display: block;
+    left: 0px;
+    width: 40%;
+}
+
+.greetings {
+
     text-align: center;
-    color: bisque;
+}
+
+.images-poster {
+    width: 200px;
+    height: 300px;
+}
+
+.right-section {
+    position: absolute;
+    display: block;
+    right: 0px;
+    width: 40%;
 }

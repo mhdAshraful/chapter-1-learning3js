@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae3d71ca-85f2-4ed4-931b-13dbbfa31509" name="Default Changelist" comment="" />
+    <list default="true" id="ae3d71ca-85f2-4ed4-931b-13dbbfa31509" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/scripts/add-content.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/eventemitter3/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eventemitter3/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/eventemitter3/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eventemitter3/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/eventemitter3/umd/eventemitter3.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eventemitter3/umd/eventemitter3.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/eventemitter3/umd/eventemitter3.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eventemitter3/umd/eventemitter3.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/http-proxy/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/http-proxy/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/http-proxy/lib/http-proxy/passes/web-incoming.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/http-proxy/lib/http-proxy/passes/web-incoming.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/http-proxy/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/http-proxy/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +59,16 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
   </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/web-1/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -62,6 +85,8 @@
       <workItem from="1589240271802" duration="3752000" />
       <workItem from="1589245132331" duration="504000" />
       <workItem from="1589245725963" duration="89000" />
+      <workItem from="1590852132280" duration="3938000" />
+      <workItem from="1590916731922" duration="3802000" />
     </task>
     <servers />
   </component>
@@ -81,6 +106,10 @@
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
     <state x="2273" y="455" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.3440.1410@0.0.3440.1410" timestamp="1589240800816" />
+    <state x="2203" y="216" key="CommitChangelistDialog2" timestamp="1590852625460">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="2203" y="216" key="CommitChangelistDialog2/0.0.3440.1410@0.0.3440.1410" timestamp="1590852625460" />
     <state x="1560" y="354" key="SettingsEditor" timestamp="1589245094218">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>

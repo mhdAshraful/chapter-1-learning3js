@@ -1,0 +1,29 @@
+{
+  "name": "chapterlesson1threejsbook",
+  "version": "1.0.0",
+  "description": "Three.js Books practise including Js practice",
+  "main": "index.js",
+  "dependencies": {
+    "http-server": "^0.12.3",
+    "prettier": "^2.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ashraf0011/chapter-1-learning3js.git"
+  },
+  "author": "Md Ashraful Islam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ashraf0011/chapter-1-learning3js/issues"
+  },
+  "homepage": "https://github.com/Ashraf0011/chapter-1-learning3js#readme",
+  "keywords": [
+    "three.js",
+    "JavaScript",
+    "WebGL"
+  ]
+}
