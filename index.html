@@ -17,6 +17,23 @@
 </head>
 
 <body id="webgl">
+    <script>
+        var today = new Date();
+        var hourNow = today.getHours();
+        var greeting;
+
+        if (hourNow > 18) {
+            greeting = "Good Evening";
+        } else if (hourNow > 12) {
+            greeting = "Good Afternoon";
+        } else if (hourNow > 0) {
+            greeting = "Good Morning";
+        } else {
+            greeting = "Welcome!!!";
+        }
+
+        document.write('<h3 class=\"greetings\">' + greeting + "</h3>");
+    </script>
     <h1>Test site from chapter 1 learning.</h1>
     <section class="left-section">
 
@@ -48,32 +65,64 @@
                     <td id="totalCost"></td>
                 </tr>
             </table>
+            <img class="images-poster" src="./assets/images/meritt-thomas-7FGMP9EazF4-unsplash.jpg" alt="" srcset="">
         </div>
 
-        <div class="headings">
-            <h2 class="topic">Second topic: stings </h2>
-            <div>
-                <div id="name">Holly Molly</div>
-                <div id="note">Take alook around!!</div>
-                <img class="images-poster" src="./assets/images/alex-furgiuele-UkH7L-aag8A-unsplash.jpg" alt=""
-                    srcset="">
-            </div>
-        </div>
 
         <div>
-            <h2 class="ti">twenty fivr percent off notice </h2>
+            <h2 class="ti">twenty five percent-off notice </h2>
             <div id="titling"> cost per tile is $5</div>
             <div id="25">here you go</div>
             <img class="images-poster" src="./assets/images/alex-furgiuele-UkH7L-aag8A-unsplash.jpg" alt="" srcset="">
         </div>
+
+        <div class="headings">
+            <h2 class="topic">Chapter 3 function </h2>
+            <div>
+                <h2>Basic Function</h2>
+                <!-- changing the string in notice -->
+                <div id="notice">Take alook around!!</div>
+                <img class="images-poster" src="./assets/images/justin-leibow-OtmuZ0O5nVQ-unsplash.jpg" alt=""
+                    srcset="">
+            </div>
+        </div>
+        <div class="headings">
+            <h2 class="topic">fuction can take arguments, and return values </h2>
+            <p> we are calculating area of a plane W: 4 and H: 56 so its area is: <span id="area"></span></p>
+            <img src="./assets/images/meritt-thomas-SBKdiLOmylc-unsplash.jpg" alt="" class="images-poster">
+        </div>
+        <div lass="headings">
+            <h2 class="topic">multiple arguments, and return values </h2>
+            <p class="bold"> Here we are going to calculate the volume of the container whose width: <span
+                    id="width"></span>
+                height: <span id="height"></span> and length: <span id="lengths"></span> <br> </p>
+            then we will show the resulf
+            <ul>
+                <li>regular if it's volume is under750.00,</li>
+                <li>medium if it's volume is under 1550.00</li>
+                <li>oversized if it's volume is under 5550.00 and</li>
+                <li> unknown if its too big for weight mechine.</li>
+            </ul>
+            <h3>your box info </h3>
+            <ol>
+                <li> Area: <span id="boxArea"></span></li>
+                <li> Volume: <span id="boxVolume"></span></li>
+                <li>Your box is: <span id="boxWeight"></span></li>
+
+            </ol>
+            <h4>In the console try: getVolume(2,3,4) it will show your results</h4>
+
+
+            <img src="./assets/images/meritt-thomas-SBKdiLOmylc-unsplash.jpg" alt="" class="images-poster">
+        </div>
+
+
     </section>
 
+
+
     <section class="right-section">
-        <div class="headings">
-            <h2 class="topic">First topic </h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid, architecto error fuga laborum quae
-                repellendus ut.</p>
-        </div>
+
         <div class="headings">
             <h2 class="topic">First topic </h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid, architecto error fuga laborum quae
